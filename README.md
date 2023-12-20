@@ -1,6 +1,6 @@
 1.	About the Project
 
-The game being developed is a Casual 2D Action, Adventure, Platformer type of game being made with the Help of Unity Game Engine. The Game is specifically for Android Devices.
+The game being developed is a Casual 2D Action, Adventure, Platformer type of game being made with the Help of Unity Game Engine.
 
 	The Game involves a single player character entering a strange area with nothing to use as a weapon. The area is inhabited by various strange creatures(enemies) that will try to attack and kill the player character if he enters their line of Sight, preventing player from completing the level. The Primary Objective of the game is to survive and reach the end of the level and while doing so gain some experience by killing some enemies and collecting stuff along the way. Throughout each level there are certain collection stuff laid out. The player has to collect those stuff while completing the level as it will help him in unlocking some of the future stages. If the Player successfully completes the level then he/she will be awarded with some bonus Experience Points which will help the player to upgrade his/her player character.
 
