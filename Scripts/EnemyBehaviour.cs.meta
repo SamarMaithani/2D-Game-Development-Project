@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 322cbdaeed1e68b46985602d6638986b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - castPoint: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - laser: {fileID: 7837331527839998341, guid: 32e1f9fa3eba83141bb5b0f33841908a, type: 3}
+  - frontcheck: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
